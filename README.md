@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @derekfingo
+- 👋 Hi, I’m @derekleiro
 - 👀 I’m interested in Front-end dev
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Fingo Africa
