@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @derekleiro
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning Golang and Product Management
-- 💞️ I’m looking to collaborate on your next project
-- 📫 How to reach me: derekleiro.me/contact
+Building great things in Africa!
+
 
 <!---
 derekfingo/derekfingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
